@@ -1,5 +1,113 @@
-# 💫 About Me:
-👋 Hey there, I'm Michael!<br><br>🔭 I’m currently working on EatsAndReps, a modern React + Node.js fitness tracker that helps users manage meals, workouts, and goals — complete with achievements and gym maps.<br>🤝 I’m looking to collaborate on open-source projects that involve JavaScript, React, or full-stack web apps, especially those that focus on user experience and real-world impact.<br>👐 I’m looking for help with deploying scalable systems and integrating AI features into personal assistant and health-tracking platforms.<br>🌱 I’m currently learning TypeScript, Next.js, and cloud technologies like AWS and Firebase to take my development skills to the next level.<br>💬 Ask me about web development, React architecture, backend APIs, or creative UI/UX design — I love building clean, intuitive interfaces that feel alive.<br>⚡ Fun fact: I’m an IT student at Kabarak University, a big Cristiano Ronaldo fan, and I enjoy coding, solo walks, and watching Beta Squad on YouTube.
+<div align="center">
+
+# Hey, I'm Michael Ogutu 👋
+### Founder · Full-Stack Engineer · AI Builder
+
+*Nairobi, Kenya 🇰🇪 · Building the future of African software*
+
+[![Portfolio](https://img.shields.io/badge/mikesth3tic.dev-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://mikesth3tic.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelogutu)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mikesth3tic)
+
+</div>
+
+---
+
+## 🧠 Who I Am
+
+I'm the founder of **[MIKESTH3TIC.DEV](https://mikesth3tic.dev)** — an AI software studio headquartered in Nairobi, building intelligent, Africa-first digital products. I'm a final-year **BSc Information Technology** student at **Kabarak University** (graduating December 2026), and I've already shipped production-grade systems across fintech, agri-tech, sports analytics, and AI SaaS.
+
+> *"Disrupt. Automate. Dominate."*
+
+I don't just write code — I identify gaps in markets, architect solutions, and ship products that create real-world value. My work spans from government digitalisation strategy to consumer AI tools designed for Nairobi's streets.
+
+---
+
+## 🚀 What I'm Building
+
+### 🏢 Under MIKESTH3TIC.DEV
+
+| Project | Description | Stack |
+|---|---|---|
+| **ORACLE** | NSE investment intelligence platform — real-time signals, portfolio analytics | Next.js · Node.js · M-Pesa · MongoDB |
+| **REKRUT** | AI-powered hiring co-pilot — automated screening, culture-fit scoring | React · Anthropic API · Firebase |
+| **CHAPUO** | AI content studio with Sheng + Swahili intelligence, built for African creators | Next.js · OpenAI · Tailwind |
+| **EatsAndReps** | Food & fitness tracker with achievements, gym maps, and goal systems | React · Node.js · MongoDB |
+| **xGAFFER** | Sports analytics dashboard — xG models, player heatmaps, match intelligence | React · Chart.js · Python |
+| **Agri Value Connect** | Agricultural market linkage platform for Kenyan smallholder farmers | React Native · Firebase |
+
+---
+
+## 💼 Experience
+
+**🏛️ ICT Industrial Attachment** · *State Department of Youth Affairs, Creative Economy & Sports (SDYACE)*
+`Jan 2026 – Apr 2026`
+> Mapped and architected a full digitalisation strategy across three government agencies — KECOBO, DITD, and the National Youth Council — scoping a three-phase rollout valued at **KES 31.5M–78M**. Delivered structured service inventories and technical implementation blueprints.
+
+---
+
+## ⚙️ Tech Stack
+
+```
+Languages     TypeScript · JavaScript · Python · SQL
+Frontend      React · Next.js · Three.js · Tailwind CSS
+Backend       Node.js · Express · REST APIs · WebSockets
+Databases     MongoDB · Firebase · PostgreSQL
+Cloud & DevOps AWS · Docker · Firebase Hosting · Vercel
+AI / ML       Anthropic API · OpenAI · LangChain · Prompt Engineering
+Payments      M-Pesa Daraja API (STK Push · B2C) · Stripe
+Mobile        React Native
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikesth3tic&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesth3tic&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🌍 Why Africa?
+
+Africa's digital economy is the next frontier — a billion-person market with massive infrastructure gaps and a generation of builders ready to close them. I'm building from Nairobi because this is where the problems are real, the stakes are high, and the opportunity is enormous.
+
+Everything I ship is designed with African users, markets, and infrastructure in mind: M-Pesa-first payments, Swahili/Sheng language intelligence, low-bandwidth performance, and mobile-native UX.
+
+---
+
+## 🎯 Currently
+
+- 🎓 Final year BSc IT at **Kabarak University** — graduating December 2026
+- 🔍 Seeking **Junior Software Developer / Software Engineer** roles — open to relocation
+- 🤝 Open to collaborating on open-source tools with real-world African market impact
+- 📡 Exploring a Twitch presence around **live coding + Football Manager**
+
+---
+
+## ⚡ Beyond the Code
+
+```
+⚽  Football tactics obsessive — PSG & Champions League devotee
+🎮  Football Manager 2024 — the other full-time job
+🌍  GeoGuessr competitor — geography is a superpower
+📺  Currently watching: FROM, The Boys
+```
+
+---
+
+<div align="center">
+
+**Let's build something that matters.**
+
+[![Email](https://img.shields.io/badge/hello@mikesth3tic.dev-000000?style=flat-square&logo=gmail&logoColor=00FFFF)](mailto:hello@mikesth3tic.dev)
+
+</div>
 
 
 ## 🌐 Socials:
