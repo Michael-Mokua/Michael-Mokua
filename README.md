@@ -1,31 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MIKESTH3TIC.DEV&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Disrupt.%20Automate.%20Dominate.&descAlignY=58&descAlign=50" width="100%"/>
-
-<a href="https://mikesth3tic-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Michael+Ogutu+Mokua;Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%7C+Nairobi%2C+Kenya;Building+Africa-first+products" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/Michael-Mokua/Michael-Mokua/main/assets/banner.svg" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF)](https://mikesth3tic-dev.vercel.app/)
-[![Instagram](https://img.shields.io/badge/@whoismichaia-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/whoismichaia)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:michaelcartelo03@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;52+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://mikesth3tic-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-05010A?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=05010A"/></a>
+<a href="https://instagram.com/whoismichaia"><img src="https://img.shields.io/badge/@whoismichaia-05010A?style=for-the-badge&logo=instagram&logoColor=FF00E5&labelColor=05010A"/></a>
+<a href="mailto:michaelcartelo03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05010A?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05010A"/></a>
+<img src="https://komarev.com/ghpvc/?username=Michael-Mokua&label=PROFILE+VIEWS&color=FF00E5&style=for-the-badge&labelColor=05010A"/>
 
 </div>
 
----
-
-### ⚡ About
-
-- 🎓 Final-year **BSc Information Technology** student, Kabarak University
-- 🏢 Founder of **MIKESTH3TIC.DEV** — AI software studio, Africa-first, Nairobi 🇰🇪
-- 🧠 52 repos and counting — from AI marketplaces to sports-prediction pipelines to Android GPS apps
-- 🌱 Farming roots in Joska shape how I build: patient, resourceful, made to last
+<img src="https://raw.githubusercontent.com/Michael-Mokua/Michael-Mokua/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
-### 🧬 Tech Stack
+## 🧬 `whoami`
+
+```
+> founder, MIKESTH3TIC.DEV — AI software studio, Nairobi, Kenya
+> final-year BSc IT @ Kabarak University
+> 52 repos: marketplaces, ML pipelines, agentic AI, Android, fintech
+> raised on a farm off Old Kangundo Road, Joska — built to last, not to impress
+```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,postgres,supabase,tailwind,kotlin,androidstudio,git,vercel&theme=dark&perline=7" />
@@ -33,21 +34,23 @@
 
 ---
 
-### 🚀 Pinned Builds
+## 🚀 `pinned_builds[]`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌾 [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP)**
-AI-powered marketplace connecting farmers with buyers for crop waste and agricultural byproducts — hybrid rules + LLM matching engine (Groq), USSD fallback for offline access. Built for the KCIC Cleantech Innovation Competition.
+### 🌾 [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP)
+AI-powered marketplace connecting farmers with buyers for crop waste and agricultural byproducts — hybrid rules + LLM matching engine (Groq), USSD fallback for offline access. Built for the **KCIC Cleantech Innovation Competition**.
+
 `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 [att-finder](https://github.com/Michael-Mokua/att-finder)**
-Full-stack marketplace connecting students to industrial attachment and internship opportunities — role-based accounts, searchable listings, application tracking for students and companies.
+### 🎓 [att-finder](https://github.com/Michael-Mokua/att-finder)
+Full-stack marketplace connecting students to industrial attachment and internship opportunities — role-based accounts, searchable listings, application tracking.
+
 `JavaScript`
 
 </td>
@@ -55,15 +58,17 @@ Full-stack marketplace connecting students to industrial attachment and internsh
 <tr>
 <td width="50%" valign="top">
 
-**⚽ [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS)**
-Football match prediction pipeline combining Poisson GLM, LSTM, and XGBoost with Monte Carlo simulation — probability distributions for outcomes, goal lines, corners, and cards.
+### ⚽ [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS)
+Football match prediction pipeline — Poisson GLM + LSTM + XGBoost with Monte Carlo simulation for outcomes, goal lines, corners, and cards.
+
 `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**📚 [EduMesh](https://github.com/Michael-Mokua/EduMesh)**
-Offline-first education platform with on-device AI personalization, role-based dashboards (student/teacher/admin/parent), and automatic sync for low-connectivity environments.
+### 📚 [EduMesh](https://github.com/Michael-Mokua/EduMesh)
+Offline-first education platform, on-device AI personalization, role-based dashboards, automatic sync for low-connectivity environments.
+
 `TypeScript`
 
 </td>
@@ -71,15 +76,17 @@ Offline-first education platform with on-device AI personalization, role-based d
 <tr>
 <td width="50%" valign="top">
 
-**🌿 [agri-value-connect](https://github.com/Michael-Mokua/agri-value-connect)**
-Digital marketplace connecting farmers, buyers, and service providers — produce listing, direct buying, secure payments, order tracking, data insights.
+### 🌿 [agri-value-connect](https://github.com/Michael-Mokua/agri-value-connect)
+Digital marketplace connecting farmers, buyers, and service providers — listings, direct buying, secure payments, order tracking, data insights.
+
 `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-**🏙️ [naipulse-os-naivibe](https://github.com/Michael-Mokua/naipulse-os-naivibe)**
-Nairobi-inspired city intelligence platform — real-time city insights (Pulse), AI fact-checking (Truth), and mood-based music discovery (NaiVibe).
+### 🏙️ [naipulse-os-naivibe](https://github.com/Michael-Mokua/naipulse-os-naivibe)
+Nairobi-inspired city intelligence platform — real-time insights (Pulse), AI fact-checking (Truth), mood-based music discovery (NaiVibe).
+
 `JavaScript`
 
 </td>
@@ -87,15 +94,17 @@ Nairobi-inspired city intelligence platform — real-time city insights (Pulse),
 <tr>
 <td width="50%" valign="top">
 
-**💸 [PESANET](https://github.com/Michael-Mokua/PESANET)**
-Lightweight WiFi billing system integrating M-Pesa payments to grant internet access — STK Push, session control, voucher-based access.
+### 💸 [PESANET](https://github.com/Michael-Mokua/PESANET)
+Lightweight WiFi billing system integrating M-Pesa — STK Push, session control, voucher-based access.
+
 `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev)**
-Official portfolio and AI startup hub — featuring MikeAI (LLM assistant), interactive architecture explorers, and high-performance visualizations. Next.js + Framer Motion.
+### 🌐 [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev)
+Official portfolio and AI startup hub — MikeAI (LLM assistant), interactive architecture explorers, high-performance visualizations.
+
 `TypeScript`
 
 </td>
@@ -103,15 +112,17 @@ Official portfolio and AI startup hub — featuring MikeAI (LLM assistant), inte
 <tr>
 <td width="50%" valign="top">
 
-**🏃 [strideOS](https://github.com/Michael-Mokua/strideOS)**
-Native Android app that maps and analyzes walks in real time using GPS and on-device intelligence. Kotlin, Clean Architecture, Jetpack Compose.
+### 🏃 [strideOS](https://github.com/Michael-Mokua/strideOS)
+Native Android app mapping and analyzing walks in real time via GPS and on-device intelligence. Kotlin, Clean Architecture, Jetpack Compose.
+
 `Kotlin`
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 [AURA-Adaptive-User-Reasoning-Assistant](https://github.com/Michael-Mokua/AURA-Adaptive-User-Reasoning-Assistant)**
-AURA v3.0 "Transcendence Protocol" — AI-agentic OS with dynamic color spectrum, interactive 3D knowledge graphs, and a unified command interface.
+### 🧠 [AURA](https://github.com/Michael-Mokua/AURA-Adaptive-User-Reasoning-Assistant)
+v3.0 "Transcendence Protocol" — AI-agentic OS, dynamic color spectrum, interactive 3D knowledge graphs, unified command interface.
+
 `JavaScript`
 
 </td>
@@ -119,7 +130,7 @@ AURA v3.0 "Transcendence Protocol" — AI-agentic OS with dynamic color spectrum
 </table>
 
 <details>
-<summary><b>🗂️ More repos worth a look</b></summary>
+<summary><b>⚡ expand: more repos</b></summary>
 <br/>
 
 | Repo | Description | Lang |
@@ -137,41 +148,33 @@ AURA v3.0 "Transcendence Protocol" — AI-agentic OS with dynamic color spectrum
 
 ---
 
-### 📊 GitHub Stats
+## 📊 `stats.exe`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Michael-Mokua&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00F5FF&icon_color=FF0080&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Mokua&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00F5FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Michael-Mokua&show_icons=true&hide_border=true&bg_color=05010A&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1ff&border_color=FF00E5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Mokua&layout=compact&hide_border=true&bg_color=05010A&title_color=00F5FF&text_color=c9d1ff&border_color=FF00E5" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Mokua&theme=dark&hide_border=true&background=0F0C29&ring=00F5FF&fire=FF0080&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Mokua&hide_border=true&background=05010A&ring=FF00E5&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1ff&currStreakNum=ffffff&sideNums=ffffff&dates=7dffef" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Mokua&theme=synthwave&hide_border=true&bg_color=0f0c29&color=00F5FF&line=FF0080&point=ffffff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Michael-Mokua&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
----
-
-<!--START_SECTION:snake-->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Michael-Mokua/Michael-Mokua/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<!--END_SECTION:snake-->
-
-<div align="center">
-<sub>👆 Renders once the snake GitHub Action (below) is added to this repo</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Mokua&bg_color=05010A&color=00F5FF&line=FF00E5&point=ffffff&hide_border=true&area=true&area_color=FF00E5" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's build something
+## 💬 `contact()`
 
-<a href="mailto:michaelcartelo03@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-00F5FF?style=for-the-badge&logo=maildotru&logoColor=000000"/></a>
+<a href="mailto:michaelcartelo03@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-05010A?style=for-the-badge&logo=maildotru&logoColor=FF00E5&labelColor=05010A"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010A,50:1a0533,100:05010A&height=100&section=footer" width="100%"/>
 
 </div>
