@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;52+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;52+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -47,9 +47,9 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 14 hours ago |
-| [att-finder](https://github.com/Michael-Mokua/att-finder) | yesterday |
-| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | yesterday |
+| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | just now |
+| [att-finder](https://github.com/Michael-Mokua/att-finder) | 20 hours ago |
+| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 20 hours ago |
 | [EduMesh](https://github.com/Michael-Mokua/EduMesh) | yesterday |
 <!-- RECENT_ACTIVITY:END -->
 
