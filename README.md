@@ -5,7 +5,7 @@
 <br/>
 
 <!-- TYPING_SVG:START -->
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;52+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;49+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
 <!-- TYPING_SVG:END -->
 
 <br/><br/>
@@ -32,7 +32,7 @@ $ whoami
 
 $ status
 > final-year BSc IT @ Kabarak University (Dec 2026)
-> 52 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
+> 49 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
 > currently shipping: MAZAOLOOP
 
 $ origin
@@ -52,9 +52,9 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | just now |
-| [att-finder](https://github.com/Michael-Mokua/att-finder) | 20 hours ago |
-| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 20 hours ago |
+| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 15 hours ago |
+| [att-finder](https://github.com/Michael-Mokua/att-finder) | yesterday |
+| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | yesterday |
 | [EduMesh](https://github.com/Michael-Mokua/EduMesh) | yesterday |
 <!-- RECENT_ACTIVITY:END -->
 
