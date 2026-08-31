@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Michael-Mokua/Michael-Mokua/main/assets/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Michael-Mokua/Michael-Mokua/main/assets/banner.gif" width="100%"/>
 
 <br/>
 
@@ -21,16 +21,37 @@
 
 ## 🧬 `whoami`
 
-```
-> founder, MIKESTH3TIC.DEV — AI software studio, Nairobi, Kenya
-> final-year BSc IT @ Kabarak University
-> 52 repos: marketplaces, ML pipelines, agentic AI, Android, fintech
-> raised on a farm off Old Kangundo Road, Joska — built to last, not to impress
+```bash
+$ whoami
+> Michael Ogutu Mokua — founder, MIKESTH3TIC.DEV
+> AI software studio · Nairobi, Kenya 🇰🇪 · Africa-first
+
+$ status
+> final-year BSc IT @ Kabarak University (Dec 2026)
+> 52 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
+> currently shipping: MAZAOLOOP — KCIC Cleantech Innovation Competition entry
+
+$ origin
+> raised on a farm off Old Kangundo Road, Joska
+> built to last, not to impress
 ```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,postgres,supabase,tailwind,kotlin,androidstudio,git,vercel&theme=dark&perline=7" />
 </div>
+
+---
+
+## 📡 `git log --recent`
+
+<!-- RECENT_ACTIVITY:START -->
+| Repo | Last Push |
+|---|---|
+| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | just now |
+| [att-finder](https://github.com/Michael-Mokua/att-finder) | 20 hours ago |
+| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 20 hours ago |
+| [EduMesh](https://github.com/Michael-Mokua/EduMesh) | yesterday |
+<!-- RECENT_ACTIVITY:END -->
 
 ---
 
