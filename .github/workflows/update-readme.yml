@@ -2,7 +2,7 @@ name: update recent activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "*/30 * * * *"   # every 30 minutes — near-real-time without cross-repo webhooks
   workflow_dispatch: {}
   push:
     branches: [ main ]
