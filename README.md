@@ -4,7 +4,9 @@
 
 <br/>
 
+<!-- TYPING_SVG:START -->
 <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;52+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
+<!-- TYPING_SVG:END -->
 
 <br/><br/>
 
@@ -12,6 +14,7 @@
 <a href="https://instagram.com/whoismichaia"><img src="https://img.shields.io/badge/@whoismichaia-05010A?style=for-the-badge&logo=instagram&logoColor=FF00E5&labelColor=05010A"/></a>
 <a href="mailto:michaelcartelo03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05010A?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05010A"/></a>
 <img src="https://komarev.com/ghpvc/?username=Michael-Mokua&label=PROFILE+VIEWS&color=FF00E5&style=for-the-badge&labelColor=05010A"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMichael-Mokua&query=%24.public_repos&label=REPOS&color=00F5FF&style=for-the-badge&labelColor=05010A"/>
 
 </div>
 
@@ -21,6 +24,7 @@
 
 ## 🧬 `whoami`
 
+<!-- WHOAMI:START -->
 ```bash
 $ whoami
 > Michael Ogutu Mokua — founder, MIKESTH3TIC.DEV
@@ -29,12 +33,13 @@ $ whoami
 $ status
 > final-year BSc IT @ Kabarak University (Dec 2026)
 > 52 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
-> currently shipping: MAZAOLOOP — KCIC Cleantech Innovation Competition entry
+> currently shipping: MAZAOLOOP
 
 $ origin
 > raised on a farm off Old Kangundo Road, Joska
 > built to last, not to impress
 ```
+<!-- WHOAMI:END -->
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,postgres,supabase,tailwind,kotlin,androidstudio,git,vercel&theme=dark&perline=7" />
