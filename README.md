@@ -53,9 +53,9 @@ $ origin
 | Repo | Last Push |
 |---|---|
 | [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 14 days ago |
-| [att-finder](https://github.com/Michael-Mokua/att-finder) | 14 days ago |
-| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 14 days ago |
-| [EduMesh](https://github.com/Michael-Mokua/EduMesh) | 14 days ago |
+| [att-finder](https://github.com/Michael-Mokua/att-finder) | 15 days ago |
+| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 15 days ago |
+| [EduMesh](https://github.com/Michael-Mokua/EduMesh) | 15 days ago |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
