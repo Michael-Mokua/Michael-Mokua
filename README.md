@@ -52,7 +52,7 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 23 hours ago |
+| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | yesterday |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 20 days ago |
 | [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 20 days ago |
 | [EduMesh](https://github.com/Michael-Mokua/EduMesh) | 20 days ago |
