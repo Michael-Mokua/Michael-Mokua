@@ -33,7 +33,7 @@ $ whoami
 $ status
 > final-year BSc IT @ Kabarak University (Dec 2026)
 > 49 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
-> currently shipping: MAZAOLOOP
+> currently shipping: mikesth3tic.dev
 
 $ origin
 > raised on a farm off Old Kangundo Road, Joska
@@ -52,10 +52,10 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
+| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 6 hours ago |
 | [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 11 days ago |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 1 month ago |
 | [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 1 month ago |
-| [EduMesh](https://github.com/Michael-Mokua/EduMesh) | 1 month ago |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
