@@ -52,8 +52,8 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 14 days ago |
-| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 25 days ago |
+| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 15 days ago |
+| [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 26 days ago |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 1 month ago |
 | [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 1 month ago |
 <!-- RECENT_ACTIVITY:END -->
