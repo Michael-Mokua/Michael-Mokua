@@ -5,7 +5,7 @@
 <br/>
 
 <!-- TYPING_SVG:START -->
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;49+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=700&size=26&duration=2200&pause=800&color=FF00E5&background=05010A00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Founder+%40+MIKESTH3TIC.DEV;AI+Software+Studio+%E2%80%94+Africa-First;50+repos+%7C+Marketplaces+%C2%B7+ML+%C2%B7+Mobile+%C2%B7+Agentic+AI" alt="Typing SVG" />
 <!-- TYPING_SVG:END -->
 
 <br/><br/>
@@ -32,8 +32,8 @@ $ whoami
 
 $ status
 > final-year BSc IT @ Kabarak University (Dec 2026)
-> 49 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
-> currently shipping: mikesth3tic.dev
+> 50 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
+> currently shipping: ESL-Booking
 
 $ origin
 > raised on a farm off Old Kangundo Road, Joska
@@ -52,10 +52,10 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 22 days ago |
+| [ESL-Booking](https://github.com/Michael-Mokua/ESL-Booking) | 55 min ago |
+| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 23 days ago |
 | [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 1 month ago |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 1 month ago |
-| [AAMPFPS](https://github.com/Michael-Mokua/AAMPFPS) | 1 month ago |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
