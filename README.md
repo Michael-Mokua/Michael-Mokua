@@ -33,7 +33,7 @@ $ whoami
 $ status
 > final-year BSc IT @ Kabarak University (Dec 2026)
 > 50 repos: marketplaces · ML pipelines · agentic AI · Android · fintech
-> currently shipping: ESL-Booking
+> currently shipping: mikesth3tic.dev
 
 $ origin
 > raised on a farm off Old Kangundo Road, Joska
@@ -52,8 +52,8 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [ESL-Booking](https://github.com/Michael-Mokua/ESL-Booking) | 14 days ago |
-| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 1 month ago |
+| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 3 hours ago |
+| [ESL-Booking](https://github.com/Michael-Mokua/ESL-Booking) | 15 days ago |
 | [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 1 month ago |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 2 months ago |
 <!-- RECENT_ACTIVITY:END -->
