@@ -52,8 +52,8 @@ $ origin
 <!-- RECENT_ACTIVITY:START -->
 | Repo | Last Push |
 |---|---|
-| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | yesterday |
-| [ESL-Booking](https://github.com/Michael-Mokua/ESL-Booking) | 16 days ago |
+| [mikesth3tic.dev](https://github.com/Michael-Mokua/mikesth3tic.dev) | 2 days ago |
+| [ESL-Booking](https://github.com/Michael-Mokua/ESL-Booking) | 17 days ago |
 | [MAZAOLOOP](https://github.com/Michael-Mokua/MAZAOLOOP) | 1 month ago |
 | [att-finder](https://github.com/Michael-Mokua/att-finder) | 2 months ago |
 <!-- RECENT_ACTIVITY:END -->
